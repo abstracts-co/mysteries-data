@@ -1,0 +1,1 @@
+{"outer": {"h": "airnz901-outer-h.png", "c": "airnz901-outer.webp", "w": 160.01, "s": -79.21499999999999, "e": 175.09000000000003, "n": -75.83500000000002, "hOff": -1000}, "inner": {"h": "airnz901-inner-h.png", "c": "airnz901-inner.webp", "w": 166.1, "s": -77.85, "e": 169.0, "n": -77.2, "hOff": -1000}, "keepBelow": true}
